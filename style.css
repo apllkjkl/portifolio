@@ -1,4 +1,4 @@
-
+ 
 @import url('https://fonts.googleapis.com/css2?family=Handjet:wght@500&family=Poppins:wght@100;300;400&display=swap');
 
 
@@ -50,4 +50,10 @@ a{
     color: pink;
     text-decoration: none;
     text-decoration-color:white;
+}
+
+a:hover{
+    color: palevioletred;
+    text-decoration: underline;
+    text-underline-offset: 1rem;
 }
